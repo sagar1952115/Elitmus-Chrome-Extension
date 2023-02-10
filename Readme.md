@@ -24,3 +24,10 @@
 1. If user clicked on Admin button then he/she will be redirected to the admin auth page where he/she will have to enter the credentials and click button.
 2. After authorization user will be redirected to dashboard page.
 3. In dashboard page there is a input field which will ask for the email id of the candidate to show his/her date including webcam captured photos.
+
+## Note
+
+Server for this extension is build in Nodejs and express js and data is stored in monogdb.
+
+Respository link of server : https://github.com/sagar1952115/elitmus-extension-server <br>
+Hosted link of server : https://elitmus-server.onrender.com
