@@ -1,0 +1,39 @@
+body {
+  /* border: 2px solid black; */
+  width: 300px;
+  height: 180px;
+  background-color: aliceblue;
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center; */
+}
+p {
+  /* display: inline-flex; */
+  margin: 0.5rem auto;
+  text-align: center;
+  font-size: 22px;
+  color: blue;
+  /* border-radius: 6px; */
+  /* border: 1px solid lightblue; */
+  padding: 10px;
+}
+a {
+  text-decoration: none;
+  text-align: center;
+  width: 6rem;
+  margin: 1rem auto;
+  background-color: #006cb5;
+  border: none;
+  outline: none;
+  color: white;
+  padding: 8px 12px;
+  border-radius: 10px;
+  font-size: 13px;
+  font-weight: bold;
+}
+.popup {
+  cursor: pointer;
+}
+.btn {
+  display: flex;
+}
